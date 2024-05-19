@@ -1,1 +1,2 @@
 # Applying-ML-Techniques-to-Astrophysics-Star-Classification-Exoplanet-Detection
+This project leverages machine learning (ML) techniques to address two critical tasks in astrophysics: star classification and exoplanet detection. By applying supervised learning algorithms, we classify stars based on their spectral data and use time-series analysis to identify exoplanet candidates from the light curves of stars. We will create synthetic datasets to simulate real-world scenarios and apply advanced ML techniques to enhance prediction accuracy.
