@@ -1,5 +1,5 @@
 import pandas as pd
-import numpy as np
+import numpy as np 
 
 # Function to generate synthetic star data
 def generate_star_data(num_samples=1000):
