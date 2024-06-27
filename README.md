@@ -1,5 +1,4 @@
-##
-Applying-ML-Techniques-to-Astrophysics-Star-Classification-Exoplanet-Detection
+# Applying-ML-Techniques-to-Astrophysics-Star-Classification-Exoplanet-Detection
 
 # Exoplanet Detection with Machine Learning
 
